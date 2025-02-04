@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on IT
-- 📫 How to reach me E-mail
+- 📫 How to reach me => E-mail
 - 😄 Pronouns: normal/autist
 - ⚡ Fun fact: ↖ this is stupid
 
