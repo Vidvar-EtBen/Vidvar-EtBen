@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me => E-mail
-- 😄 Pronouns: normal/autist
-- ⚡ Fun fact: ↖ this is stupid
 
 <!---
 Vidvar-EtBen/Vidvar-EtBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
