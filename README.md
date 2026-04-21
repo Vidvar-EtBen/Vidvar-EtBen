@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Vidvar-EtBen
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on IT
-- 📫 How to reach me => E-mail
+# 👋 Hi, I’m @Vidvar-EtBen
+
+💻 Aspiring Fullstack Developer
+
+* 🌱 Mostly focused on backend (C#, .NET & SQL)
+* 🛠️ Building and improving my skills
+* 📫 Contact: E-mail
 
 <!---
 Vidvar-EtBen/Vidvar-EtBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
